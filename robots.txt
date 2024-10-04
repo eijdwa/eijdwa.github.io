@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eijdwa.github.io/Ffq/sitemap.Ffq.gz
